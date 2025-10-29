@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.freecodecamp.org/">
-    <img src="./public/fcc.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">How to Create a Full-Stack Application with Next.js</h3>
 
